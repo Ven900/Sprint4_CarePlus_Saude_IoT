@@ -133,7 +133,7 @@ Sprint3-CarePlus-Saude-IoT
 
 Repositório oficial do projeto:
 
-* GitHub: https://github.com/SEU-USUARIO/Sprint3-CarePlus-Saude-IoT
+* GitHub: [https://github.com/SEU-USUARIO/Sprint3-CarePlus-Saude-IoT](https://github.com/Ven900/Sprint4_CarePlus_Saude_IoT.git)
 
 ### Simulação Wokwi
 
