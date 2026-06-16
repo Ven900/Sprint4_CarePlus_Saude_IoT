@@ -149,17 +149,16 @@ Vídeo apresentando o funcionamento do sistema, arquitetura e resultados obtidos
 
 ---
 
-## 📷 Evidências
+## 📄 Documentação
 
-As evidências do projeto estão disponíveis na pasta **imagens/** do repositório:
+O projeto contém:
 
-* Circuito ESP32 no Wokwi
-* Monitor Serial
-* Dashboard Node-RED
-* Arquitetura da Solução
-
-As documentações complementares estão disponíveis na pasta **docs/**.
-
+Código-fonte do ESP32
+Circuito desenvolvido no Wokwi
+Bibliotecas utilizadas
+Relatório técnico
+Manual de execução
+Vídeo demonstrativo
 ---
 
 ## 📚 Disciplina
