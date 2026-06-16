@@ -145,7 +145,7 @@ Protótipo virtual desenvolvido para testes e validação do sistema:
 
 Vídeo apresentando o funcionamento do sistema, arquitetura e resultados obtidos:
 
-* YouTube: https://youtu.be/SEU-LINK-AQUI
+* YouTube: [https://youtu.be/SEU-LINK-AQUI](https://youtu.be/TCFZg5YY4h8)
 
 ---
 
