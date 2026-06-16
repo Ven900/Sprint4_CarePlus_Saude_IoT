@@ -165,7 +165,7 @@ Vídeo demonstrativo
 
 **Edge Computing & Computer Systems**
 
-### Sprint 3 — 2025
+### Sprint 4 — 2026
 
 ---
 
